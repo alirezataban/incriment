@@ -1,0 +1,11 @@
+p#demo{
+    background: #fffaaa;
+}
+div#result{
+    height: 100px;
+    width: 300px;
+    font-size: 2em;
+    border: 1px solid black;
+    text-align: center;
+}
+
